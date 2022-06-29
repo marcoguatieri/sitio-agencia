@@ -1,0 +1,335 @@
+body {
+background-color: #EEEEEE;
+padding-left: 0px ;
+padding-right: 0px;
+width: auto;
+font-family: 'Josefin Sans', sans-serif;
+}
+
+
+
+
+
+.contenedor{
+    width: 1140px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 50px;
+    color: #888888;
+    display: block;
+
+    
+}
+
+    
+.flotante{
+
+position: fixed;
+margin-left: 30px;
+margin-top: 500px;
+width: 60px;
+height: 60px;
+background-color: #1363DF;
+border-radius: 50px;
+text-align: center;
+font-size: 30px;
+box-shadow: 2px 2px 3px #000;
+z-index: 100;
+
+}
+
+#flecha{
+margin-top: 16px;
+}
+
+
+#logo{
+
+    padding-top: 10px;
+    padding-left: 20px;
+    align-items: center;
+    font-size: 0px;
+
+
+
+
+
+}
+
+
+
+
+#inicio {
+    margin: 0px;
+font-size: 30px;
+color: #EEEEEE;
+
+text-align: center;
+background: linear-gradient(rgba(227, 118, 97, 0.0), rgba(0 ,0 ,0 ,.7)), url(../img/fondo.jpg);
+background-size:cover;
+background-color: #1363DF;
+
+
+
+}
+
+#tituloart{
+
+    font-size: 100px;
+    
+
+}
+
+
+
+#boton {
+    color: #EEEEEE ;
+    text-decoration: none;
+    background-color: #1363DF;
+    vertical-align: middle;
+    font-size: large;
+    text-align: center;
+    width: 220px;
+    margin-left: 830px;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    display: inline-block;
+    border-radius: 10px;
+    border-style: none;
+    
+}
+
+
+.contenedor2{
+    width: 1140px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+
+
+
+
+.menu {
+    list-style: none;
+    font-size: large;
+    color: #EEEEEE ;
+background-color: #06283D;
+width: 100%;
+padding-top: 10px;
+padding-bottom: 10px;
+margin: auto;
+}
+
+
+
+
+.menu li a{
+    color: #EEEEEE;
+margin-left: 200px;
+text-decoration: none;
+padding: 20px;
+padding-left: 1000;
+display: block;
+}
+
+
+
+
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+
+}
+
+
+
+
+#titulos{
+text-align: center;
+font-size: large;
+color: #1363DF;
+margin: 50px;
+font-size: larger;
+font-weight: 800;
+}
+
+
+
+
+
+
+#texto1 {
+    color: #06283D;
+    vertical-align: middle;
+    font-size: large;
+    text-align: center;
+    margin-left: 120px;
+    margin-bottom: 10px;
+    width: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    display: inline-block;
+    
+}
+
+
+
+
+
+
+#texto {
+    color: #06283D;
+    vertical-align: middle;
+    font-size: x-large;
+    text-align: center;
+    margin-left: 170px;
+    width: 200px;
+    padding-top: 10px;
+    display: flex;
+    columns: 50px;
+}
+
+
+
+
+
+
+
+#foto1 {
+    display: flexbox;
+vertical-align: middle;
+margin: 30px;
+padding-top: 0px;
+padding-left:100px;
+}
+
+
+
+
+
+.contenedorpie{
+background-color: #1363DF;
+margin: auto;
+}
+
+
+
+#fotos2{
+    display: inline-block;
+width: 70px; height: 70px;
+vertical-align: middle;
+align-items: center;
+margin: 50px;
+padding-top: 0px;
+padding-left: 170px;
+}
+
+#fotos2texto{
+    color: #06283D;
+    vertical-align: middle;
+    font-size: large;
+    text-align: center;
+    margin-left: 120px;
+    width: 200px;
+    height: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+    
+}
+
+
+#fotosportfolio{
+height: 300px;
+width: 300px;
+display: inline-flex;
+margin: 10px;
+margin-top: 10px;
+padding-left: 40px
+;
+text-align: center;
+}
+
+
+#textosportfolio{
+font-size: larger;
+color: #EEEEEE;
+height: 100px;
+width: 200px;
+display: inline-flex;
+margin: 60px;
+margin-top: 10px;
+padding-left: 50px;
+background-color: #06283D;
+text-decoration-color: #1363DF;
+text-align: center;
+justify-content: right;
+align-items: center;
+border-radius: 10px;
+border-style: none;
+}
+
+
+
+#gorillaz{
+font-size: large;
+text-align: center;
+margin-left: 500px;
+margin-right: 500px;
+margin-top: 100px;
+}
+#gorillaztexto{
+font-size: larger;
+margin-top: 100px;
+padding-bottom: 80px; 
+margin-left: 50px;
+margin-right: 50px;  
+}
+
+
+
+
+#texto2{
+    color: #EEEEEE;
+    vertical-align: middle;
+    font-size: larger;
+    text-align: left;
+    margin: 50px;
+    width: auto;
+    padding-top: 10px;
+
+}
+
+
+
+
+
+#textopie{
+    color: #EEEEEE;
+    font-size: large;
+    vertical-align: middle;
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    display: inline-block;
+    text-decoration-color: #EEEEEE;
+}
+
+
+
+
+
+#fotopie{
+padding-left: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+color: #EEEEEE;
+}
+
